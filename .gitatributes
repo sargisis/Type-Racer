@@ -1,0 +1,4 @@
+backend/* linguist-detectable=true
+frontend/* linguist-detectable=true
+*.ts linguist-detectable=true
+*.rs linguist-detectable=true
