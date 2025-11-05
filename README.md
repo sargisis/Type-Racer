@@ -8,13 +8,13 @@ This is early MVP version — but architecture is already scalable.
 ## Screenshots
 
 ### Home Screen
-<img src="./frontend/public/screens/home.png" width="700" />
+<img src="./project/frontend/my-app/public/screens/home.png" width="700" />
 
 ### In-Game
-<img src="./frontend/public/screens/game.png" width="700" />
+<img src="./project/frontend/my-app/public/screens/race.png" width="700" />
 
 ### Results 
-<img src="./frontend/public/screens/result.png" width="700" />
+<img src="./project/frontend/my-app/public/screens/result.png" width="700" />
 
 
 ---
