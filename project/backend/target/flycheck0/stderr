@@ -1,0 +1,8 @@
+error: failed to load manifest for workspace member `/Users/ONLYPROGRAMMING/Desktop/Type-Racer/project/backend/frontend`
+referenced by workspace at `/Users/ONLYPROGRAMMING/Desktop/Type-Racer/project/backend/Cargo.toml`
+
+Caused by:
+  failed to read `/Users/ONLYPROGRAMMING/Desktop/Type-Racer/project/backend/frontend/Cargo.toml`
+
+Caused by:
+  No such file or directory (os error 2)
