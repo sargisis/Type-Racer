@@ -1,4 +1,9 @@
 *.md linguist-documentation
-*.toml linguist-vendored
 *.lock linguist-vendored
-Makefile linguist-generated
+*.toml linguist-vendored
+
+
+project/**/*.rs linguist-language=Rust
+
+
+project/frontend/**/*.{ts,tsx} linguist-language=TypeScript
